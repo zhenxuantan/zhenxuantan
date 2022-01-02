@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+.App-body {
+  background-color: #0e1e20;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  width: 100%;
+  overflow: hidden;
+  font-family: "Poppins";
+}
+
+.page1 {
+  padding-left: 1rem;
+  padding-top: 10rem;
+  background-color: #387780;
+  height: 100vh;
+  width: 100vw;
+  z-index: 10;
+}
+
+.page2 {
+  background-color: #1c3b40;
+  padding-left: 5rem;
+  padding-top: 2rem;
+  height: 100vh;
+  width: 100vw;
+  z-index: 9;
+}
+
+.page3 {
+  background-color: #7e3e62;
+  padding-left: 5rem;
+  padding-top: 2rem;
+  height: 100vh;
+  width: 100vw;
+  z-index: 9;
+}
+
+.page4 {
+  background-color: #7e3e62;
+  padding-left: 5rem;
+  padding-top: 0rem;
+  height: 100vh;
+  width: 100vw;
+  z-index: 9;
+}
+
+.page5 {
+  background-color: #387780;
+  padding-left: 5rem;
+  padding-top: 0rem;
+  height: 100vh;
+  width: 100vw;
+  z-index: 9;
+}
+
+.skillsHeader {
+  font-size: 4rem;
+  position: absolute;
+}
+
+.skill {
+  font-size: 3rem;
+  position: absolute;
+}
+
+.yellow {
+  color: #a5c741;
+}
+
+.alignRight {
+  text-align: end;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,38 @@
+.page {
+  background-color: #7e3e62;
+  padding: 8vmin;
+  height: 100vh;
+  width: 100vw;
+  z-index: 9;
+  font-family: "Poppins";
+}
+
+.title {
+  font-size: 5vmin;
+  font-weight: 500;
+  margin-bottom: 3vmin;
+  color: white;
+  font-family: "Poppins";
+}
+
+.mainTitle {
+  font-size: 7vmin;
+  font-weight: 500;
+  margin-bottom: 1vmin;
+  color: white;
+  font-family: "Poppins";
+}
+
+.description {
+  font-size: 3vmin;
+  font-weight: 400;
+  color: white;
+  text-align: justify;
+  font-family: "Poppins";
+}
+
+.makeStyles-indicators-4 {
+  height: 10vmin;
+  line-height: 1;
+  margin-top: 0;
+}

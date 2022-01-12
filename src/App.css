@@ -11,11 +11,13 @@
   width: 100%;
   overflow: hidden;
   font-family: "Poppins";
+  font-size: 8vmin;
+  font-weight: 600;
 }
 
 .page1 {
-  padding-left: 1rem;
-  padding-top: 10rem;
+  padding-left: 10vmin;
+  padding-top: 30vmin;
   background-color: #387780;
   height: 100vh;
   width: 100vw;
@@ -24,26 +26,8 @@
 
 .page2 {
   background-color: #1c3b40;
-  padding-left: 5rem;
-  padding-top: 2rem;
-  height: 100vh;
-  width: 100vw;
-  z-index: 9;
-}
-
-.page3 {
-  background-color: #7e3e62;
-  padding-left: 5rem;
-  padding-top: 2rem;
-  height: 100vh;
-  width: 100vw;
-  z-index: 9;
-}
-
-.page4 {
-  background-color: #7e3e62;
-  padding-left: 5rem;
-  padding-top: 0rem;
+  padding-left: 10vmin;
+  padding-top: 10vmin;
   height: 100vh;
   width: 100vw;
   z-index: 9;
@@ -51,16 +35,14 @@
 
 .page5 {
   background-color: #387780;
-  padding-left: 5rem;
-  padding-top: 0rem;
+  padding: 10vmin;
   height: 100vh;
   width: 100vw;
   z-index: 9;
 }
 
 .skillsHeader {
-  font-size: 4rem;
-  position: absolute;
+  font-size: 7vmin;
 }
 
 .skill {
@@ -74,9 +56,4 @@
 
 .alignRight {
   text-align: end;
-}
-
-.link {
-  text-decoration: none;
-  color: white;
 }

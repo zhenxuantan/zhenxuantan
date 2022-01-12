@@ -6,12 +6,12 @@ export default function StyledChip(props) {
     <Grid item>
       <Chip
         style={{
-          fontSize: "3rem",
+          fontSize: "5vmin",
+          fontFamily: "Poppins",
           fontWeight: 500,
-          fontFamily: `"Poppins"`,
-          height: "5rem",
-          paddingTop: "1rem",
-          paddingBottom: "1rem",
+          height: "10vmin",
+          paddingTop: "1vmin",
+          paddingBottom: "1vmin",
           backgroundColor: "rgba(242, 175, 41, 0.3)",
           color: "white",
         }}

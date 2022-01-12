@@ -33,7 +33,12 @@ export default function Link(props) {
         >
           <Grid item lg={6} container direction="column">
             <Grid item>
-              <Carousel infiniteLoop autoPlay animationHandler={"fade"}>
+              <Carousel
+                showThumbs={false}
+                infiniteLoop
+                autoPlay
+                animationHandler={"fade"}
+              >
                 {props.items.map((item, i) => (
                   <Item key={i} item={item} />
                 ))}

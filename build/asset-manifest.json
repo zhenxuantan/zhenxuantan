@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/zhenxuantan/static/css/main.0672b44e.css",
-    "main.js": "/zhenxuantan/static/js/main.5d4ca58c.js",
-    "static/media/OurFoodChapterDesign.png": "/zhenxuantan/static/media/OurFoodChapterDesign.e1210c59a5d1dea2252e.png",
-    "static/media/NUStatsProfile.png": "/zhenxuantan/static/media/NUStatsProfile.71f2aae0f7d82d593181.png",
-    "static/media/SweeBookSort.png": "/zhenxuantan/static/media/SweeBookSort.e489fa32d12a73dd0668.png",
-    "static/media/SweeBookUI.png": "/zhenxuantan/static/media/SweeBookUI.28a1ee37382c42f2ef88.png",
-    "static/media/NUStatsPhone.png": "/zhenxuantan/static/media/NUStatsPhone.38dfaed5f4616232d2c5.png",
-    "static/media/OurFoodChapterAdvanced.png": "/zhenxuantan/static/media/OurFoodChapterAdvanced.81ac65f1762323df8fcb.png",
-    "static/media/SweeBookFind.png": "/zhenxuantan/static/media/SweeBookFind.69061db905dc9a28c323.png",
-    "static/media/NUStatsPoll.png": "/zhenxuantan/static/media/NUStatsPoll.3b59585d3de36a0eec71.png",
-    "static/media/NUStatsProfilePage.png": "/zhenxuantan/static/media/NUStatsProfilePage.2da9090c208f15d6ee8f.png",
-    "static/media/NUStatsSort.png": "/zhenxuantan/static/media/NUStatsSort.bd3cf0c441e8784be514.png",
-    "static/media/NUStatsCreator.png": "/zhenxuantan/static/media/NUStatsCreator.2566ad7b69fae4812bea.png",
-    "static/media/NUStatsResults.png": "/zhenxuantan/static/media/NUStatsResults.126096992fe463a850dd.png",
+    "main.css": "/zhenxuantan/static/css/main.32e7a0cc.css",
+    "main.js": "/zhenxuantan/static/js/main.3cb6888b.js",
+    "static/media/OurFoodChapterDesign.png": "/zhenxuantan/static/media/OurFoodChapterDesign.bf95904e1f0a6ee1ddb2.png",
+    "static/media/NUStatsProfile.png": "/zhenxuantan/static/media/NUStatsProfile.4f10a73ac8f1ed3ffa74.png",
+    "static/media/SweeBookSort.png": "/zhenxuantan/static/media/SweeBookSort.5045be5b131545cbce8f.png",
+    "static/media/SweeBookUI.png": "/zhenxuantan/static/media/SweeBookUI.b0fa9e5465ce1dcf7802.png",
+    "static/media/OurFoodChapterAdvanced.png": "/zhenxuantan/static/media/OurFoodChapterAdvanced.8b198511543ebb5c4b45.png",
+    "static/media/SweeBookFind.png": "/zhenxuantan/static/media/SweeBookFind.a1244c20b21845dd3443.png",
+    "static/media/NUStatsPoll.png": "/zhenxuantan/static/media/NUStatsPoll.d275ba1027270ad36acd.png",
+    "static/media/NUStatsPhone.png": "/zhenxuantan/static/media/NUStatsPhone.1c0b47876f40c80ef216.png",
+    "static/media/NUStatsResults.png": "/zhenxuantan/static/media/NUStatsResults.b57e268575bff96ef8a0.png",
+    "static/media/NUStatsCreator.png": "/zhenxuantan/static/media/NUStatsCreator.4d8afeefb16a9acd5558.png",
+    "static/media/NUStatsProfilePage.png": "/zhenxuantan/static/media/NUStatsProfilePage.96d4322835125b8ea1fd.png",
+    "static/media/NUStatsSort.png": "/zhenxuantan/static/media/NUStatsSort.6930fa367c727b93559e.png",
     "index.html": "/zhenxuantan/index.html",
-    "main.0672b44e.css.map": "/zhenxuantan/static/css/main.0672b44e.css.map",
-    "main.5d4ca58c.js.map": "/zhenxuantan/static/js/main.5d4ca58c.js.map"
+    "main.32e7a0cc.css.map": "/zhenxuantan/static/css/main.32e7a0cc.css.map",
+    "main.3cb6888b.js.map": "/zhenxuantan/static/js/main.3cb6888b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0672b44e.css",
-    "static/js/main.5d4ca58c.js"
+    "static/css/main.32e7a0cc.css",
+    "static/js/main.3cb6888b.js"
   ]
 }

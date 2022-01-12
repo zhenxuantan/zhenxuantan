@@ -5,6 +5,7 @@
   width: 100vw;
   z-index: 9;
   font-family: "Poppins";
+  overflow: "scroll";
 }
 
 .title {

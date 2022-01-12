@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zhenxuantan/static/css/main.a06ff109.css",
-    "main.js": "/zhenxuantan/static/js/main.c7fca96a.js",
+    "main.css": "/zhenxuantan/static/css/main.32e7a0cc.css",
+    "main.js": "/zhenxuantan/static/js/main.3cb6888b.js",
     "static/media/OurFoodChapterDesign.png": "/zhenxuantan/static/media/OurFoodChapterDesign.bf95904e1f0a6ee1ddb2.png",
     "static/media/NUStatsProfile.png": "/zhenxuantan/static/media/NUStatsProfile.4f10a73ac8f1ed3ffa74.png",
     "static/media/SweeBookSort.png": "/zhenxuantan/static/media/SweeBookSort.5045be5b131545cbce8f.png",
@@ -15,11 +15,11 @@
     "static/media/NUStatsProfilePage.png": "/zhenxuantan/static/media/NUStatsProfilePage.96d4322835125b8ea1fd.png",
     "static/media/NUStatsSort.png": "/zhenxuantan/static/media/NUStatsSort.6930fa367c727b93559e.png",
     "index.html": "/zhenxuantan/index.html",
-    "main.a06ff109.css.map": "/zhenxuantan/static/css/main.a06ff109.css.map",
-    "main.c7fca96a.js.map": "/zhenxuantan/static/js/main.c7fca96a.js.map"
+    "main.32e7a0cc.css.map": "/zhenxuantan/static/css/main.32e7a0cc.css.map",
+    "main.3cb6888b.js.map": "/zhenxuantan/static/js/main.3cb6888b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a06ff109.css",
-    "static/js/main.c7fca96a.js"
+    "static/css/main.32e7a0cc.css",
+    "static/js/main.3cb6888b.js"
   ]
 }
